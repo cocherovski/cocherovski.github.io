@@ -134,7 +134,7 @@
 .octicon-mirror-private:before,
 .octicon-git-fork-private:before,
 .octicon-lock:before { content: '\f06a'} /*  */
-.octicon-logo-github:before { content: '\f092'} /*  */
+.octicon-logo-github:before { content: '\f092'; color: #777} /*  */
 .octicon-mail:before { content: '\f03b'} /*  */
 .octicon-mail-read:before { content: '\f03c'} /*  */
 .octicon-mail-reply:before { content: '\f051'} /*  */
